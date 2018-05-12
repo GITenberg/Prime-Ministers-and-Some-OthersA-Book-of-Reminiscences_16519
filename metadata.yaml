@@ -1,0 +1,32 @@
+_repo: Prime-Ministers-and-Some-OthersA-Book-of-Reminiscences_16519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, George William Erskine
+    aliases:
+    - Russell, G. W. E. (George William Erskine)
+    - Russell, George W. E.
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '4061'
+    url: http://www.gutenberg.org/2009/agents/4061
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Erskine_Russell
+description: ''
+gutenberg_issued: '2005-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Biography'
+- !lcc 'DA'
+tableOfContents: Prime ministers -- In honour of friendship -- Religion and the church
+  -- Politics -- Education -- Miscellanea -- Fact and fiction.
+title: 'Prime Ministers and Some Others: A Book of Reminiscences'
+url: http://www.gutenberg.org/ebooks/16519
